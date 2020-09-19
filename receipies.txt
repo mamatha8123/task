@@ -9,3 +9,5 @@ pasta
 chicken fry
 
 beans
+pizza
+apple
